@@ -11,4 +11,8 @@ public class Main {
                 asd
                 """);
     }
+
+    public static void ajahah(){
+        System.out.println("bruh");
+    }
 }
