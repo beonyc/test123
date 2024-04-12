@@ -12,5 +12,8 @@ public class Main {
                 dsad
                 asd
                 """);
+
+
+        System.out.println("last copy commit");
     }
 }
