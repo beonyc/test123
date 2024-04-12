@@ -7,4 +7,7 @@ public class Main {
         System.out.println("added develop branch" +
                 "");
     }
+
+    public static void m1(){}
+
 }
