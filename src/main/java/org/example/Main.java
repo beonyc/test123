@@ -10,5 +10,7 @@ public class Main {
         for (char c : "qweqweq".toCharArray()) {
             System.out.println(c);
         }
+
+        System.out.println(Data.DATA.getLogin()+" "+Data.DATA.getPassword());
     }
 }
