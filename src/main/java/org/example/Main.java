@@ -6,6 +6,11 @@ public class Main {
         //мой коммит в копии
         //мой коммит в копии2
 
-
+        System.out.println("""
+                sadasdsa
+                dasdas
+                dsad
+                asd
+                """);
     }
 }
