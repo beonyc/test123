@@ -12,5 +12,7 @@ public class Main {
         }
         //я исправил ошибку
         System.out.println(Data.DATA.getLogin()+" "+Data.DATA.getPassword());
+
+        //данные из Developp_copy
     }
 }
